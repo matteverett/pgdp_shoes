@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] Cross-reference from page 58a to page 8
 
 ### Project manager notes ###
 
@@ -73,6 +73,30 @@ Please submit this project for ___Smooth Reading___.
 ### Other languages ###
 
 ### Illustrations ###
+
+* i_005.jpg: Decorative
+* i_007.jpg: Decorative
+* i_011.jpg: Plate I
+* i_015.jpg: Plate II
+* i_019.jpg: Plate III
+* i_023.jpg: Plate IV
+* i_027.jpg: Plate V
+* i_031.jpg: Plate VI
+* i_035.jpg: Plate VII
+* i_039.jpg: Plate VIII
+* i_043.jpg: Plate IX
+* i_047.jpg: Plate X
+* i_051.jpg: Plate XI
+* i_053.jpg: Decorative
+* i_054.jpg: Boots and Shoes - I
+* i_056.jpg: Boots and Shoes - II
+* i_057.jpg: Boots and Shoes - III
+* i_058.jpg: Boots and Shoes - IV
+* i_059.jpg: Boots and Shoes - V
+* i_060.jpg: Boots and Shoes - VI
+* i_062.jpg: Printer's Mark
+* i_back.jpg: Back Cover
+* i_cover.jpg: Front Cover
 
 ### Proofer's notes ###
 
