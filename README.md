@@ -69,6 +69,7 @@ Please submit this project for ___Smooth Reading___.
 ### Forum notes ###
 
 ### General notes ###
+* 058a | Italy and Germany long be[l/f]ore Fulk suffered from bunions, or the Red | Replaced.
 
 ### Other languages ###
 

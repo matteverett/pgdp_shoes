@@ -59,52 +59,52 @@ _Ladies' Old-fashioned Shoes [1885]_ by Greig, T. Watson.
   * How the editor laid out special sections such as tables and sidebars.
 
 ### Check balanced markup
-* [ ] `Tools → Unmatched → DP Markup...`
+* [x] `Tools → Unmatched → DP Markup...`
   * Searches for the regular expression `\<(\w+)>\n?[^<]+<(?!/\1>)`, that is any markup starting in `<..>` that doesn't end in an identical closing markup.
   * Note: this regular expression sees `<tb>` as unbalanced, and shows the text from the `<tb>` to the next markup as an error. (If you can devise a better regex please do!)
   * Possible alternate that explicitly lists all current markup `\<(i|b|sc|g||f|u)>\n?[^<]+<(?!/\1>)`
   * Because it includes a newline, the search may take several seconds to return the first result.
   * [ ] Correct any errors and click search until no more are found.
 
-* [ ] `Tools → Unmatched → Block Markup...`
-  * [ ] Correct any errors and click search until no more are found.
+* [x] `Tools → Unmatched → Block Markup...`
+  * [x] Correct any errors and click search until no more are found.
 
 ### Check Formatting
 * Proper spacing for chapters and paragraphs:
-  * [ ] Before chapter start: 4 blank lines
-  * [ ] Between chapter head and subhead: 1 blank line
-  * [ ] Between head (or subhead) and chapter body: 2 blank lines
-  * [ ] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
-  * [ ] Each overall block should have blank lines before & after
+  * [x] Before chapter start: 4 blank lines
+  * [x] Between chapter head and subhead: 1 blank line
+  * [x] Between head (or subhead) and chapter body: 2 blank lines
+  * [x] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
+  * [x] Each overall block should have blank lines before & after
 
-* [ ] Proper markup of `<i>italic</i>` and `<b>bold</b>`
+* [x] Proper markup of `<i>italic</i>` and `<b>bold</b>`
   * Watch for punctuation wrongly contained in markup, such as `<i>(ibid.</i>` or `<b>Subtopic.</b>`.
 
 * Proper markup of foreign languages:
-  * [ ] Greek and other transliterations
+  * [x] Greek and other transliterations
 
 * Proper markup of all block material:
-  * [ ] Poetry, misc. tabular in `/* */`
-  * [ ] Block quotes in `/# #/`
+  * [x] Poetry, misc. tabular in `/* */`
+  * [x] Block quotes in `/# #/`
 
 * Proper markup of illustrations:
-  * [ ] Figures properly marked as `[Illustration: caption]`
-  * [ ] For captionless (`[Illustration: ]`), remove colon & whitespace
-  * [ ] Caption text agrees with List of Illustrations (if any)
-  * [ ] Consistent spelling, abbreviation, capitalization in captions
+  * [x] Figures properly marked as `[Illustration: caption]`
+  * [x] For captionless (`[Illustration: ]`), remove colon & whitespace
+  * [x] Caption text agrees with List of Illustrations (if any)
+  * [x] Consistent spelling, abbreviation, capitalization in captions
 
-* [ ] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes
+* [x] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes
 
-* [ ] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
+* [x] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
 
 ## Preliminary Fixup
 
 ### Basic Fixup
-* [ ] Open `Tools → Basic Fixup...`
-* [ ] Correct entries as appropriate
+* [x] Open `Tools → Basic Fixup...`
+* [x] Correct entries as appropriate
 
 ### Fix Block Markups 
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -112,7 +112,7 @@ _Ladies' Old-fashioned Shoes [1885]_ by Greig, T. Watson.
   * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
   * Make sure poetry line numbers are at least two spaces to the right of the line.
 
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [x] Use the `Search` menu to step through all `/#..#/` blocks.
   * Regex: `^(/#|#/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -121,19 +121,19 @@ _Ladies' Old-fashioned Shoes [1885]_ by Greig, T. Watson.
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
 
 ### Fix Page Formatting
-* [ ] Remove the extra block markers around page boundaries
-* [ ] Join words hyphenated across page boundary
+* [x] Remove the extra block markers around page boundaries
+* [x] Join words hyphenated across page boundary
 * Handle blank pages:
-  * [ ] Check that `[Blank Page]` are blank
-  * [ ] Remove blank pages
+  * [x] Check that `[Blank Page]` are blank
+  * [x] Remove blank pages
 
 ### Fix Footnotes and Illustrations
-* [ ] Fix Footnotes and Illustrations still inside a paragraph
+* [x] Fix Footnotes and Illustrations still inside a paragraph
   * Move outside paragraph to next or prior page, as appropriate
   * Don't worry about duplicate footnote numbers/symbols for now
   * Sidenotes are handled later
 
-* [ ] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
+* [x] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
   * `First Pass`
   * `Next / Prev FN` to navigate
   * Look for `*` and use `Join with Previous` to join them
@@ -141,42 +141,42 @@ _Ladies' Old-fashioned Shoes [1885]_ by Greig, T. Watson.
     * Exception: sometimes a footnote is really long (brown)
     * Exception: multiple anchors per footnote can confuse it (teal)
 
-* [ ] Move footnotes between paragraphs
+* [x] Move footnotes between paragraphs
   * `Footnote Fixup`, `First Pass`
   * `All to Number`, `Reindex`
   * `First Pass`, `Move FNs to Para`
 
 ### Fix Sidenotes
-* [ ] Step through sidenotes
+* [x] Step through sidenotes
   * Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes).
   * Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
-* [ ] Compare to page image. Move note above paragraph if feasible.
+* [x] Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ## Preliminary Corrections
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Proofer Comments
-* [ ] `Search → Find Proofer Comments`.
-  * [ ] Resolve all proofer's notes.
+* [x] `Search → Find Proofer Comments`.
+  * [x] Resolve all proofer's notes.
 
 ### Fix Front Matter
 * [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-* [ ] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions.
+* [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions.
 
 ### Unicode dashes
 * [ ] Long dash: S/R `([^-])----([^-]|$)` → `\1——\2`
   * There exists a “long dash” Unicode character (TWO-EM DASH, U+2E3A). However, display support for it is not broad, so it’s better to use two consecutive EM DASH, which is widely supported.
 
-* [ ] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
+* [x] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
   * There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM DASH (using two bars for one EM DASH), based on appearance in text version. I opted not to use this in favor of using the EM DASH character in both text and HTML.
 
-* [ ] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
+* [x] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
   * Range of numbers `12–15`
   * Mathematical minus sign `15 – 12 = 3`
   * Negative numbers `–14º`
@@ -185,13 +185,13 @@ _Ladies' Old-fashioned Shoes [1885]_ by Greig, T. Watson.
 * Any dashes not covered above are simple hyphens.
 
 ### Convert to Curly Quotes
-* [ ] `Tools → Convert to Curly Quotes`.
-  * [ ] Correct any issues
-* [ ] Search for remaining upright single quotation marks and replace them with either a ‘ or a ’.
-* [ ] Check for lingering straight quotes: `['"]`
-* [ ] `Tools → Check Curly Quotes`
-  * [ ] Correct any issues
-* [ ] Validate quotes pairings by searching for `[“”‘’]`
+* [x] `Tools → Convert to Curly Quotes`.
+  * [x] Correct any issues
+* [x] Search for remaining upright single quotation marks and replace them with either a ‘ or a ’.
+* [x] Check for lingering straight quotes: `['"]`
+* [x] `Tools → Check Curly Quotes`
+  * [x] Correct any issues
+* [x] Validate quotes pairings by searching for `[“”‘’]`
 
 ## Tool Checks
 
