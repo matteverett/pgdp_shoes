@@ -1,5 +1,58 @@
+// ppgen source for Ladies' Old-fashioned Shoes [1885]
+// ppgen ver 3.57e
 
------File: 001.png---------------------------------------------------------
+// Set title
+.dt Ladies' Old-fashioned Shoes [1885] | Project Gutenberg
+
+// Set line length
+.ll 72
+
+// Define CSS
+.de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+
+// Search and replace
+.sr t |—|--|
+
+// Define macros
+.dm chapter-break
+.sp 4
+.dm-
+
+.dm section-break
+.sp 2
+.dm-
+
+.dm new-page $1
+.bn $1.png
+.pn +1
+.dm-
+
+.dm new-page-break $1
+.pb
+.pm new-page $1
+.dm-
+
+.dm verse-start
+.in +4
+.nf b
+.dm-
+
+.dm verse-end
+.nf-
+.in -4
+.dm-
+
+// Page numbering
+.pn link
+
+// Paragraph formatting, indent paragraphs by 0.75 em.
+.pi
+.nr psi 0.75em
+
+.bn 001.png
+.pn 1
+
+.pm new-page 001
 
 
 
@@ -9,8 +62,7 @@ LADIES’
 
 <sc>Old-Fashioned Shoes</sc>
 */
------File: 002.png---------------------------------------------------------
------File: 003.png---------------------------------------------------------
+.pm new-page 003
 
 
 
@@ -39,8 +91,7 @@ DAVID DOUGLAS
 
 1885
 */
------File: 004.png---------------------------------------------------------
------File: 005.png---------------------------------------------------------
+.pm new-page 005
 
 
 
@@ -97,8 +148,7 @@ IV.
 
 Shoes at Westminster Abbey, in Pictures, and mentioned in Evelyn’s Diary,      9
 */
------File: 006.png---------------------------------------------------------
------File: 007.png---------------------------------------------------------
+.pm new-page 007
 
 
 
@@ -114,8 +164,7 @@ the workmanship and design used by our ancestors.
 I have to thank Sir <sc>Bernard Burke</sc>; Sir <sc>Robert Menzies</sc>, of that Ilk; Mrs <sc>Bourne</sc>,
 of Breachoak; Mrs <sc>M’Queen</sc>, of Braxfield; and Messrs <sc>Cassell & Co.</sc>, for their kind
 assistance.
------File: 008.png---------------------------------------------------------
------File: 009.png---------------------------------------------------------
+.pm new-page 009
 
 
 PLATE I.
@@ -126,12 +175,10 @@ plain black satin; the simplicity of which, however, would in all probability be
 as was the fashion in olden times, the straps which were made to overlap each other across the instep. It is interesting
 and valuable to the antiquarian on account of its antiquity, and because of the rank and historical celebrity of its
 quondam wearer.
------File: 010.png---------------------------------------------------------
------File: 011.png---------------------------------------------------------
+.pm new-page 011
 
 [Illustration: I]
------File: 012.png---------------------------------------------------------
------File: 013.png---------------------------------------------------------
+.pm new-page 013
 
 
 PLATE II.
@@ -141,12 +188,10 @@ beautifully embroidered, the shoe may be considered as a <i>chef-d’œuvre</i> 
 lace, of an intricate pattern and delicate as a spider’s web, is very old and of much value. It is ornamented on the instep
 by a single pearl, and its <i>tout-ensemble</i> is altogether pretty and graceful, and says much for the taste and dexterity
 of the shoemakers in the days of Charles II.
------File: 014.png---------------------------------------------------------
------File: 015.png---------------------------------------------------------
+.pm new-page 015
 
 [Illustration: II]
------File: 016.png---------------------------------------------------------
------File: 017.png---------------------------------------------------------
+.pm new-page 017
 
 
 PLATE III.
@@ -159,12 +204,10 @@ inside is beautifully finished, being lined with pale pink silk and white kid; w
 half an inch from the sole upwards, and in length from instep to toe, thus prevented any danger of the splitting of the material
 of which the shoe was made. This practice has now, for some reason or other, become impossible to the modern shoemaker.
 The heel is very large, and the toe pointed.
------File: 018.png---------------------------------------------------------
------File: 019.png---------------------------------------------------------
+.pm new-page 019
 
 [Illustration: III]
------File: 020.png---------------------------------------------------------
------File: 021.png---------------------------------------------------------
+.pm new-page 021
 
 
 PLATE IV.
@@ -175,12 +218,10 @@ Sir William Brereton, Bart. Mrs Woodcock was consequently great-grand-daughter o
 the beginning of the last century. The stuff of which the shoe is composed is fine-spotted silk brocade of a yellowish colour,
 and ornamented with a pattern of pale blue silk embroidery above the toe. The shoe was worn with a buckle, has a small heel
 and round pointed toe.
------File: 022.png---------------------------------------------------------
------File: 023.png---------------------------------------------------------
+.pm new-page 023
 
 [Illustration: IV]
------File: 024.png---------------------------------------------------------
------File: 025.png---------------------------------------------------------
+.pm new-page 025
 
 
 PLATE V.
@@ -190,12 +231,10 @@ toe, and widening towards the instep. The bottom of the heel is in the form of a
 observed in the illustration, though perfectly apparent in the original. It belonged to Lilias, daughter of the 12th Earl of
 Eglinton, and was worn by her at her marriage about the middle of the eighteenth century. The height of the heel is what is
 worn at present, but the toe is pointed, and filled up for half an inch with wadding.
------File: 026.png---------------------------------------------------------
------File: 027.png---------------------------------------------------------
+.pm new-page 027
 
 [Illustration: V]
------File: 028.png---------------------------------------------------------
------File: 029.png---------------------------------------------------------
+.pm new-page 029
 
 
 PLATE VI.
@@ -203,12 +242,10 @@ PLATE VI.
 Lady Mary Mordaunt was the owner of this shoe, the material of which is closely spotted black silk. The
 shoe is without bow, tie, or straps, and has a plain and insignificant appearance; and its low heel makes it partake rather
 too much of the nature of a slipper.
------File: 030.png---------------------------------------------------------
------File: 031.png---------------------------------------------------------
+.pm new-page 031
 
 [Illustration: VI]
------File: 032.png---------------------------------------------------------
------File: 033.png---------------------------------------------------------
+.pm new-page 033
 
 
 PLATE VII.
@@ -216,12 +253,10 @@ PLATE VII.
 This shoe also belonged to Lady Mary Mordaunt. The material is the same as that of the black one, but its bright
 colour and elaborate gimp trimming transforms it into a smarter and more stylish shoe. The point of the toe is so
 extremely sharp and elongated, that it had to be well stuffed with cotton-wool to preserve the shape.
------File: 034.png---------------------------------------------------------
------File: 035.png---------------------------------------------------------
+.pm new-page 035
 
 [Illustration: VII]
------File: 036.png---------------------------------------------------------
------File: 037.png---------------------------------------------------------
+.pm new-page 037
 
 
 PLATE VIII.
@@ -232,12 +267,10 @@ age, there still remain a few inches which have withstood the ravages of time, a
 and effect the chaussure must have gleamed and sparkled when fresh from the hands of the maker. This shoe was worn with
 a large buckle, has an immense heel and pointed toe. It dates about the time of Queen Elizabeth, and as it was procured
 in the vicinity of Kenilworth (namely at Leamington) may have figured at the revels and festivities there in its grand days.
------File: 038.png---------------------------------------------------------
------File: 039.png---------------------------------------------------------
+.pm new-page 039
 
 [Illustration: VIII]
------File: 040.png---------------------------------------------------------
------File: 041.png---------------------------------------------------------
+.pm new-page 041
 
 
 PLATE IX.
@@ -246,12 +279,10 @@ From its appearance this shoe must be a very old one, but the date and name of i
 differs from many of the preceding ones by the fact that the heel, instead of being covered with the same material as the
 shoe, is formed of dark red leather. The old brocade is very rich in texture, and harmonious in colouring; and the flap above
 the instep is kept in place by a ribbon strap of a corresponding hue.
------File: 042.png---------------------------------------------------------
------File: 043.png---------------------------------------------------------
+.pm new-page 043
 
 [Illustration: IX]
------File: 044.png---------------------------------------------------------
------File: 045.png---------------------------------------------------------
+.pm new-page 045
 
 
 PLATE X.
@@ -260,12 +291,10 @@ This large buckled shoe was worn in the reign of Queen Anne, though, unfortunate
 ascertained. The material is pink silk; the embroidery in silks and metallic threads is very rich, and the colours
 wonderfully preserved. The heel is of an immense height and breadth, and the toe so extravagantly pointed, that it must have
 protruded for a considerable distance beyond the foot.
------File: 046.png---------------------------------------------------------
------File: 047.png---------------------------------------------------------
+.pm new-page 047
 
 [Illustration: X]
------File: 048.png---------------------------------------------------------
------File: 049.png---------------------------------------------------------
+.pm new-page 049
 
 
 PLATE XI.
@@ -273,12 +302,10 @@ PLATE XI.
 This shoe is fastened by a ribbon tie, instead of the overlapping straps with ornamental buckle. It is made of plain
 black satin, with the silk binding that is usual at the present day. The heel is neatly shaped, and not of such extravagant
 height as that of other shoes of a corresponding date, probably about the middle or end of the last century; toe pointed.
------File: 050.png---------------------------------------------------------
------File: 051.png---------------------------------------------------------
+.pm new-page 051
 
 [Illustration: XI]
------File: 052.png---------------------------------------------------------
------File: 053a.png--------------------------------------------------------
+.pm new-page 053a
 
 
 
@@ -322,7 +349,7 @@ near Callander, Perthshire.
 Church, Edinburgh.—A. Ritchie, 1837.
 
 6–11. Ladies’ Shoes, viz.:—(6) High-heeled Shoe and pair of Clogs,
------File: 053b.png--------------------------------------------------------
+.pm new-page 053b
 as worn in the middle of last century; (7) High-heeled Crimson Satin
 Shoes, with plated buckles—George Sim, F.S.A. Scot., 1863; (8) Pair of
 Sky-blue Satin high-heeled Shoes, with buckles; (9) Pair of Black Satin
@@ -367,7 +394,7 @@ quarter of the globe.
 
 The chief interest naturally centres in that portion which is most
 complete, and which illustrates the female fashions that have prevailed in
------File: 054a.png--------------------------------------------------------
+.pm new-page 054a
 France and Italy from the time of the Valois to that of the First Empire.
 One of the earliest examples is a female shoe of the age of Henri II. (1).
 It is of white stuff, ornamented on the instep with a large rosette of silver
@@ -380,7 +407,7 @@ by royal decree, and in England by Act of Parliament, refused to do
 more than retire into temporary banishment, reappearing in the reign of
 Louis XI. under a form more offensive than ever. This was the long-peaked
 shoe, called in France the <i>chaussure à poulaine</i>, from the
------File: 054b.png--------------------------------------------------------
+.pm new-page 054b
 resemblance of the point to the prow of a ship. William of Malmesbury
 attributes its origin to a certain follower of William Rufus, and evidently
 regards it as part and parcel of the disgraceful morals of the Anglo-Norman
@@ -418,7 +445,7 @@ the appearance of a metal surface. This shoe is made of white leather,
 and seems to have lost its ornamentation. Both this example and another
 of the Sixteenth Century (3) are peculiar in having soles which connect the
 toe and the heel in the form of a patten. The second is made of white
------File: 055a.png--------------------------------------------------------
+.pm new-page 055a
 leather, and cut out lozenge-wise with eight thongs, which unite in a
 central one going up the instep; the heel is painted red, and made of
 leaves of leather pressed together. The most reasonable shoe of the
@@ -457,7 +484,7 @@ of silver lace; the very high heel is in red morocco; it is fastened just
 below the ankle with a strap and buckle. If these two shoes show how
 the art of the Renaissance had declined in France, the specimen from
 Italy of the same period (8) is even worse. One can hardly believe that
------File: 055b.png--------------------------------------------------------
+.pm new-page 055b
 such a shoe was made for anything but a goat. Thus shod, it is difficult
 to imagine how any creature less sure-footed could maintain its balance.
 The toe is ornamented with rosettes in cerise and yellow ribbons.
@@ -501,7 +528,7 @@ Louis XVI. has a very low heel, and a toe which, at first oval, becomes
 what botanists distinguish as ovate. The collection affords several
 examples of this gradual change in the shape of the toe, commencing
 with a very obtuse point, which in the end is quite lost. The specimen
------File: 056a.png--------------------------------------------------------
+.pm new-page 056a
 engraved (13) is an extremely pretty slipper in green morocco, with a red
 heel and a double ruche of red taffetas.
 
@@ -527,7 +554,7 @@ liberty, the fashion soon passed away, and a singularly dull mode set in.
 The specimen from the Empress Josephine’s wardrobe (16) is indicative
 of the bourgeois character of the imperial court. This fashion of neat,
 square, low-heeled shoes prevailed during the Restoration with both
------File: 056b.png--------------------------------------------------------
+.pm new-page 056b
 sexes. From 1820 we get a man’s evening dress shoe of varnished
 leather (17). The instep is cut away, and the opening made to represent
 an embroidered stocking by a tracery of black kid on white leather.
@@ -566,7 +593,7 @@ The Louis Treize boot (22), included in our first group, differed little
 from the <i>botte à soufflet</i> just described, except that the heel was higher,
 and that the upper part fell back more upon the leg. Of the same period
 is an historical shoe (23) which belonged to the godson of Henri IV., the
------File: 057a.png--------------------------------------------------------
+.pm new-page 057a
 unfortunate Henri de Montmorenci, beheaded at Toulouse in 1632. It is
 of ordinary leather, very long, with a square flat toe; the upper is adorned
 with a <i>fleur-de-lis</i>, and on the band are the initials of the duke, surrounded
@@ -610,7 +637,7 @@ eyelets.
 The four oldest examples of European foot-gear at Cluny are
 boots and shoes worn by the <i>bourgeoisie</i>, or poorer classes. A
 Flemish shoe depicted in the third illustration (24) belongs to the
------File: 057b.png--------------------------------------------------------
+.pm new-page 057b
 Sixteenth Century. It was found in the storehouses of the hospital at
 Ghent, and dates from 1530. It affords an example of the foot-gear
 worn by the martyrs of religious liberty and social equality in the great
@@ -630,7 +657,7 @@ on the foot of a German court-jester of the Sixteenth Century. The other
 quaintness (29) is dated 1752, and is said to be Flemish. The heel and
 hind-quarters are of the same fashion as the foot-gear of the time of the
 Regency in France; the extraordinary elongation is in harmony with the
------File: 058a.png--------------------------------------------------------
+.pm new-page 058a
 tendency of the fashion of the middle of the last century, but is too
 extreme to permit us to believe that it was made for serious wear. A
 still older specimen (30) is a little German shoe of the first half of the
@@ -669,7 +696,7 @@ universal throughout the East and Northern Africa, and that it has been
 so from ancient times. I have grouped on Fig. VI. (page 8) a number of
 specimens shown at Cluny: from India, ancient and modern, Persia,
 Africa, China, Annam, Albania, and Lapland, showing how general the
------File: 058b.png--------------------------------------------------------
+.pm new-page 058b
 fashion is, and how similar are the forms it takes in lands remote and
 strange. From these examples it will be seen how very slight is the
 difference in form between the shoes worn by the ladies of the court of
@@ -716,7 +743,7 @@ recalls the description in “Eothen” of those “coffin-shaped” bundles
 which stand for a Mohammedan lady taking a walk with her servants.
 “Painfully struggling against the obstacles to progression interposed by
 the many folds of her clumsy drapery, by her <i>big mud boots</i>, and especially
------File: 059a.png--------------------------------------------------------
+.pm new-page 059a
 by her two pair of slippers, she works her way full awkwardly enough,
 closely followed by her women-slaves.”
 
@@ -756,7 +783,7 @@ of the Hindoo foot almost as lissom as fingers. A blacksmith with a
 piece of iron to file fixes it between the jaws of a small pair of tongs,
 grasps them between the toes of both feet, and holds them so firmly that
 he is able to file with all the strength of his arms. As he works sitting on
------File: 059b.png--------------------------------------------------------
+.pm new-page 059b
 the ground, he occasionally stretches out a leg, and picks up some article
 which happens to be beyond the reach of his arm. Such a workman’s foot
 tends to assume the character of a hand; not only does the great toe
@@ -800,7 +827,7 @@ interesting to notice how far a flat broad-toed shoe is indicative of societies
 formed or existing under repressive rule, religious or political, and how far
 the pointed shoe bears witness to a state of things tending towards dissolution
 and social anarchy. From Mexico we pass naturally to the shoes
------File: 060a.png--------------------------------------------------------
+.pm new-page 060a
 of the Red Men. The mocassin is the simplest form of shoe, being a
 wrapping of leather or cloth fitted to the foot, and more or less beautifully
 ornamented. These shoemakers did not expect the foot to suit itself to
@@ -839,7 +866,7 @@ discovered, and became the Queen of Egypt.
 
 At Cluny there are not only examples of Egyptian sandals, but
 specimens of those worn in various parts of Africa, by the negroes on the
------File: 060b.png--------------------------------------------------------
+.pm new-page 060b
 Gambia and by the Malagasy; with some of Arab origin, and some from
 India. One pair of Indian sandals of antique make, in black leather cut
 into innumerable thongs, have such a diabolical appearance that they
@@ -858,7 +885,7 @@ A specimen in elaborate open-work suggests long periods of forced leisure;
 and it is not unlikely that the sabot originated in those great forests of
 Germany and France, where, during the winter, the people are compelled
 to cease their ordinary work, and to take up with some in-door employment.
------File: 061a.png--------------------------------------------------------
+.pm new-page 061a
 What more natural than that wood-cutters should carve for themselves
 and for their children shoes that should be proof against mud and
 briars alike? Now, sabots are shapen by machinery.
@@ -898,7 +925,7 @@ in 1648, speaks of “shoes elevated as high as a man’s leg.” The Venetian
 ladies had in consequence to be assisted when they took their walks
 abroad, otherwise they ran the risk of taking a fall. Thus the “tottering
 willows” of China have had their parallel at their antipodes in Christian
------File: 061b.png--------------------------------------------------------
+.pm new-page 061b
 Italy. The fashion was still in vogue in the days of Evelyn, who
 describes the Venetian ladies as stalking about in their “choppines,” and
 notes the ridiculous figures they cut in attempting to crawl out of their
@@ -934,7 +961,7 @@ with dust, that beyond being the colour of the dress, with a large round
 rosette fastened in the centre with a round button, nothing could be
 made of them. Shoes can also be seen in portraits, but seldom in a
 distinct form. Evelyn mentions shoes constantly in his diary.
------File: 062.png---------------------------------------------------------
+.pm new-page 062
 
 [Illustration:
 

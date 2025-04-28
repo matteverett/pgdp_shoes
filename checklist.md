@@ -284,18 +284,18 @@ _Ladies' Old-fashioned Shoes [1885]_ by Greig, T. Watson.
 * [x] Sync with github repository
 
 ### Validation
-* [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
-* [ ] Run text checks at [pptools](https://pptools.tangledhelix.com)
+* [x] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
+* [x] Run text checks at [pptools](https://pptools.tangledhelix.com)
 
 ## Create Ppgen File
 
 ### Add Front Matter
-* [ ] Add `frontmatter.txt` to the start of the file.
+* [x] Add `frontmatter.txt` to the start of the file.
 
 ### Join page boundaries
-* [ ] Replace page boundaries with `.pm new-page`
-  * Search Regex: `-----File: (\d\d\d).png---------------------------------------------------------`
-  * Replace with: `.pm new-page $1`
+* [x] Replace page boundaries with `.pm new-page`
+  * Search Regex: `-----File: (.*).png-*\n`
+  * Replace with: `.pm new-page $1\n`
 
 ### Insert Breaks
 * [ ] Insert chapter and section breaks as appropriate
