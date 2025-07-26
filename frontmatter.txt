@@ -10,6 +10,10 @@
 // Define CSS
 .de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
 
+// Search and replace
+.sr t |—|--|
+.sr t ~●~•~
+
 // Define macros
 .dm chapter-break
 .sp 4
