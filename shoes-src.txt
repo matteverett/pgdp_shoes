@@ -59,6 +59,7 @@ Transcriber’s Notes
 .ul
 .it Missing or obscured punctuation was silently corrected.
 .it Typographical errors were silently corrected.
+.it New original cover art included with this eBook is granted to the public domain.
 .it Text in italics is enclosed by underscores (<i>italics</i>).
 .ul-
 .pb
@@ -398,12 +399,12 @@ near Callander, Perthshire.
 5. Soles of Shoes, found in the “Moray Vault,” under St Giles’
 Church, Edinburgh.—A. Ritchie, 1837.
 
-6–11. Ladies’ Shoes, viz.:—(#6:Figure_I#) High-heeled Shoe and pair of Clogs,
+6–11. Ladies’ Shoes, viz.:—(6) High-heeled Shoe and pair of Clogs,
 .pm new-page 053b
-as worn in the middle of last century; (#7:Figure_I#) High-heeled Crimson Satin
-Shoes, with plated buckles—George Sim, F.S.A. Scot., 1863; (#8:Figure_I#) Pair of
-Sky-blue Satin high-heeled Shoes, with buckles; (#9:Figure_I#) Pair of Black Satin
-Shoes, high heels, with ribband tie; (#10, 11:Figure_II#) Two Pairs lemon-coloured,
+as worn in the middle of last century; (7) High-heeled Crimson Satin
+Shoes, with plated buckles—George Sim, F.S.A. Scot., 1863; (8) Pair of
+Sky-blue Satin high-heeled Shoes, with buckles; (9) Pair of Black Satin
+Shoes, high heels, with ribband tie; (10, 11) Two Pairs lemon-coloured,
 sharp-pointed, high-heeled, Kid Shoes, with ribband rosettes, worn in
 the beginning of the present century—Dr John Alexander Smith,
 F.S.A. Scot., 1861.
@@ -477,7 +478,7 @@ prevailed until the last quarter of the Fourteenth Century, when the
 fashion gave way to a kind of slipper with a very broad toe just rounded
 off. But in another hundred years the peaked toes reappeared, and this
 time men wore points of iron a foot long, through the end of which a
-chain was passed, so that they were held aloft in the air, The same
+chain was passed, so that they were held aloft in the air. The same
 fashion appears to have obtained in England, for Camden speaks of
 “shoes and patterns being snowted and piked more than a finger long,
 looking upwards.” And here in this shoe we have evidence of a lady as
@@ -522,7 +523,7 @@ the foot is painted pink.
 We now come to the Ludovican period, the early part of which
 coincides with that of Charles II. of England, a period whose extreme
 frivolity and heartlessness are well expressed in its costume. What can
-be more tasteless than the specimens (6, 7, 8) we have engraved of the
+be more tasteless than the specimens (#6, 7, 8:Figure_I#) we have engraved of the
 fashion of Louis XIV., with their hard shapes, their crude glaring colours,
 and the recrudescence of the peaked toe? The heels have again risen
 enormously, and turn the foot into the cloven hoof of the early Valois
@@ -534,25 +535,25 @@ is of yellow silk, embroidered from top to instep with a tasteless covering
 of silver lace; the very high heel is in red morocco; it is fastened just
 below the ankle with a strap and buckle. If these two shoes show how
 the art of the Renaissance had declined in France, the specimen from
-Italy of the same period (8) is even worse. One can hardly believe that
+Italy of the same period (#8:Figure_I#) is even worse. One can hardly believe that
 .pm new-page 055b
 such a shoe was made for anything but a goat. Thus shod, it is difficult
 to imagine how any creature less sure-footed could maintain its balance.
 The toe is ornamented with rosettes in cerise and yellow ribbons.
 
-The Regency (1715–1723) is represented by a boot (9) which, apart
+The Regency (1715–1723) is represented by a boot (#9:Figure_I#) which, apart
 from its high heel, shaped like a barber’s wig-stand, would not be very
 ugly. The front is even graceful in its lines, the flying flaps giving it a
 floral appearance. The next series, belonging to the reign of Louis XV.,
 cannot be denied a certain piquant grace. Later on I shall have to remark
-the singular resemblance between the typical form (10) of this reign and
+the singular resemblance between the typical form (#10:Figure_II#) of this reign and
 that prevalent in Mohammedan countries and in Japan. Only, the beauty
 observable in Oriental and African specimens, due to innate harmony, is
 here destroyed by the elevation of the shoe on pegs to a height which
 gives it the appearance of springing from the middle of the foot. In one
 example, the whole form of the shoe, even to the treading down of the
 heel, is Oriental; but, perched on its stand, it has exactly the form of an
-old coal-scuttle (11). These pegs, it would seem, were helpful in dancing,
+old coal-scuttle (#11:Figure_II#). These pegs, it would seem, were helpful in dancing,
 for Gay writes in his “Trivia,”—
 
 .fs 0.8em
@@ -644,7 +645,7 @@ without straddling. This is the more likely as the foot is remarkably
 small. Evidently it belonged to some <i><lang=fr>petit maître</lang></i> of the court of the
 Grand Monarque. Compare it with our next, of the same period (#21:Figure_III#), and
 you have a vivid idea of what it cost humanity to produce the pretty little
-fur-belowed Louis Quatorze seigneurs.
+furbelowed Louis Quatorze seigneurs.
 
 The Louis Treize boot (#22:Figure_I#), included in our first group, differed little
 from the <i><lang=fr>botte à soufflet</lang></i> just described, except that the heel was higher,
@@ -658,7 +659,7 @@ by arabesques. It is interesting as showing the fashion of the courts of
 Louis XIII. and Charles I. Among other very singular shapes of the
 Seventeenth Century is one described as of Flemish origin. Perhaps
 the others are of the same fashion. Whether they are simply bootmakers’
-freaks (28), or appertain to any particular class, I cannot say. They appear
+freaks (#28:Figure_IV#), or appertain to any particular class, I cannot say. They appear
 unique, and they may possibly be dated two or three centuries after their
 time. They are dated 1752; and as they are more easily pictured than
 described, I shall return to them on a future occasion. Of the Sixteenth
@@ -680,7 +681,7 @@ forget their rustic origin and the duties it imposed, she caused the great
 peasant-shoes their father had worn to be preserved; and they were
 bequeathed to the son who succeeded him on the throne. Certain it is
 that there is no article of dress so intimately associated with a wearer’s
-personality as his shoes. Those frightful <i><lang=fr>souliers à vilain</lang></i> (21) of which
+personality as his shoes. Those frightful <i><lang=fr>souliers à vilain</lang></i> (#21:Figure_III#) of which
 I spoke in a previous part of this paper threw a light on the old <i><lang=fr>régime</lang></i>.
 The spirit of the gaunt and wretched peasant who for long ages bore the
 burdens of royal and aristocratic France peered grimly at us through their
@@ -709,14 +710,14 @@ of German shoe of the Sixteenth Century (#27:Figure_IV#). The toe seems intended
 as an emphatic protest against the long peaks; it is in the fashion
 of a turnover, and spreads out on both sides far beyond the width
 of the foot. The outside is stamped with a lozenge pattern, the inside
-with flowers and threads. From two specimens at Cluny (#28 and 29:Figure_IV#),
+with flowers and threads. From two specimens at Cluny (#28:Figure_IV# and #29:Figure_IV#),
 it would seem as if the broad-toed German shoe ran at times into the
-extravagances of the pointed shoe. The wear numbered 28 appears at
+extravagances of the pointed shoe. The wear numbered #28:Figure_IV# appears at
 Cluny in two materials: in leather and in wood. In a previous reference to
 this extraordinary shoe, I suggested that it was perhaps only a bootmaker’s
 freak; but I have since met with a shoe similarly shaped, minus the heel,
 on the foot of a German court-jester of the Sixteenth Century. The other
-quaintness (29) is dated 1752, and is said to be Flemish. The heel and
+quaintness (#29:Figure_IV#) is dated 1752, and is said to be Flemish. The heel and
 hind-quarters are of the same fashion as the foot-gear of the time of the
 Regency in France; the extraordinary elongation is in harmony with the
 .pm new-page 058a
@@ -755,7 +756,7 @@ Italy and Germany long before Fulk suffered from bunions, or the Red
 King’s courtiers indulged in base and worthless eccentricities. It is less
 doubtful that the pointed shoe turned back on the instep is a fashion
 universal throughout the East and Northern Africa, and that it has been
-so from ancient times. I have grouped on Fig. VI. (page 8) a number of
+so from ancient times. I have grouped on #Fig. VI:Figure_VI#. (#page 8:Figure_VI#) a number of
 specimens shown at Cluny: from India, ancient and modern, Persia,
 Africa, China, Annam, Albania, and Lapland, showing how general the
 .pm new-page 058b
