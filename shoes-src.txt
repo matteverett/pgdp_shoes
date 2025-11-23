@@ -107,14 +107,16 @@ T. WATSON GREIG
 <fs=0.9em>DAVID DOUGLAS</fs>
 <fs=0.8em>1885</fs>
 
-.pm chapter-break
-
 .pm new-page-break 005
+
+.pm chapter-break
 
 .h2
 CONTENTS.
 
 .hr 20%
+
+.pm section-break
 
 .ta l:50 r:5 ew=80%
 <th>| PLATE
@@ -154,10 +156,14 @@ Shoes at Westminster Abbey, in Pictures, and mentioned in Evelyn’s Diary, | <s
 
 
 
+.pm chapter-break
+
 .h2
 <g>PREFACE.</g>
 
 .hr 20%
+
+.pm section-break
 
 .if h
 .dc 0.0 0.65
@@ -175,8 +181,12 @@ of Breachoak; Mrs <sc>M’Queen</sc>, of Braxfield; and Messrs <sc>Cassell & Co.
 assistance.
 .pm new-page 009
 
+.pm chapter-break
+
 .h2 id=Plate_I
 PLATE I.
+
+.pm section-break
 
 This shoe is supposed to have belonged to the beautiful and unfortunate Mary Queen of Scots. Though remarkable
 for the smallness of its size, it is by no means a specimen of the elaborate workmanship of former days, being made of
@@ -193,8 +203,12 @@ on a red cushion."
 .ca I
 .pm new-page 013
 
+.pm chapter-break
+
 .h2 id=Plate_II
 PLATE II.
+
+.pm section-break
 
 Miss Langley, to whom this shoe belonged, lived in the reign of Charles II. Made of pale silk, most
 beautifully embroidered, the shoe may be considered as a <i><lang=fr>chef-d’œuvre</lang></i> in shoe manufacture of the times; while the
@@ -210,8 +224,12 @@ silver button on the front."
 .ca II
 .pm new-page 017
 
+.pm chapter-break
+
 .h2 id=Plate_III
 PLATE III.
+
+.pm section-break
 
 Grace, only daughter of Fletcher Norton, Speaker of the House of Commons, and afterwards created Lord Grantley,
 married John Charles, Earl of Portsmouth. The shoe was found amongst the effects of the late Lady Menzies of
@@ -230,8 +248,12 @@ covering the top of the pointed toe."
 .ca III
 .pm new-page 021
 
+.pm chapter-break
+
 .h2 id=Plate_IV
 PLATE IV.
+
+.pm section-break
 
 This shoe belonged to Anna Frances, wife of Walter Woodcock, and daughter of William Lea, of Halesowen Grange,
 Shropshire, by Frances, his wife, grand-daughter of Edward Ward, Lord Dudley, and Frances his wife, daughter of
@@ -248,8 +270,12 @@ stitched design along the toe."
 .ca IV
 .pm new-page 025
 
+.pm chapter-break
+
 .h2 id=Plate_V
 PLATE V.
+
+.pm section-break
 
 This shoe is made of lavender-coloured kid, with slashes of white satin “let in” in front, forming a pattern narrow at the
 toe, and widening towards the instep. The bottom of the heel is in the form of a heart, which peculiarity cannot be
@@ -265,8 +291,12 @@ shapes along the front."
 .ca V
 .pm new-page 029
 
+.pm chapter-break
+
 .h2 id=Plate_VI
 PLATE VI.
+
+.pm section-break
 
 Lady Mary Mordaunt was the owner of this shoe, the material of which is closely spotted black silk. The
 shoe is without bow, tie, or straps, and has a plain and insignificant appearance; and its low heel makes it partake rather
@@ -279,8 +309,12 @@ covered in a repeating pattern of small dots."
 .ca VI
 .pm new-page 033
 
+.pm chapter-break
+
 .h2 id=Plate_VII
 PLATE VII.
+
+.pm section-break
 
 This shoe also belonged to Lady Mary Mordaunt. The material is the same as that of the black one, but its bright
 colour and elaborate gimp trimming transforms it into a smarter and more stylish shoe. The point of the toe is so
@@ -294,8 +328,12 @@ and trimmed with decorative loops around the opening."
 .ca VII
 .pm new-page 037
 
+.pm chapter-break
+
 .h2 id=Plate_VIII
 PLATE VIII.
+
+.pm section-break
 
 Nothing can be ascertained about Mrs Brown, the owner of this magnificent shoe, except her name. It is made of
 cloth of gold; of which, although for the most part the threads of the brocade are now tarnished and blackened with
@@ -312,8 +350,12 @@ large folded strap across the front."
 .ca VIII
 .pm new-page 041
 
+.pm chapter-break
+
 .h2 id=Plate_IX
 PLATE IX.
+
+.pm section-break
 
 From its appearance this shoe must be a very old one, but the date and name of its wearer cannot be discovered. It
 differs from many of the preceding ones by the fact that the heel, instead of being covered with the same material as the
@@ -329,8 +371,12 @@ red curved heel."
 .ca IX
 .pm new-page 045
 
+.pm chapter-break
+
 .h2 id=Plate_X
 PLATE X.
+
+.pm section-break
 
 This large buckled shoe was worn in the reign of Queen Anne, though, unfortunately, the name of its owner cannot be
 ascertained. The material is pink silk; the embroidery in silks and metallic threads is very rich, and the colours
@@ -345,8 +391,12 @@ strap across the front."
 .ca X
 .pm new-page 049
 
+.pm chapter-break
+
 .h2 id=Plate_XI
 PLATE XI.
+
+.pm section-break
 
 This shoe is fastened by a ribbon tie, instead of the overlapping straps with ornamental buckle. It is made of plain
 black satin, with the silk binding that is usual at the present day. The heel is neatly shaped, and not of such extravagant
@@ -360,8 +410,12 @@ featuring a small red bow near the front opening."
 .pm new-page 053a
 
 
+.pm chapter-break
+
 .h2
 <fs=1.4em>APPENDIX.</fs>
+
+.pm section-break
 
 .h3 id=Appendix_I
 I.
@@ -380,7 +434,11 @@ at home, were put to the test in the promenade or ball-room, the chances
 were ten to one they would not stand the wear, and that a heel or ball of
 the foot would obtrude.”
 
+.pm section-break
+
 .hr 20%
+
+.pm section-break
 
 .h3 id=Appendix_II
 II.|<fs=0.6em>CATALOGUE OF SHOES IN THE NATIONAL MUSEUM OF ANTIQUITIES, EDINBURGH.</fs>
@@ -414,7 +472,11 @@ Goudie, F.S.A. Scot., 1873.
 
 13–16. Shoes of Satin and Embroidered Work.
 
+.pm section-break
+
 .hr 20%
+
+.pm section-break
 
 .h3 id=Appendix_III
 III.||FASHIONS FOR THE FEET.||<fs=0.6em>BY R. HEATH.</fs>
@@ -1027,7 +1089,11 @@ communicating with a red lotus flower which acts as the maintaining
 button, causes it at every step the wearer makes to open its six lobes and
 display its corolla.
 
+.pm section-break
+
 .hr 20%
+
+.pm section-break
 
 .h3 id=Appendix_IV
 IV.
